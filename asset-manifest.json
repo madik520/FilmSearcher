@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FilmSearcher/static/css/main.3e3d431c.chunk.css",
+    "main.js": "/FilmSearcher/static/js/main.3e23eb9c.chunk.js",
+    "main.js.map": "/FilmSearcher/static/js/main.3e23eb9c.chunk.js.map",
+    "runtime~main.js": "/FilmSearcher/static/js/runtime~main.5dea5ac1.js",
+    "runtime~main.js.map": "/FilmSearcher/static/js/runtime~main.5dea5ac1.js.map",
+    "static/css/2.32bbf376.chunk.css": "/FilmSearcher/static/css/2.32bbf376.chunk.css",
+    "static/js/2.d0fecf8b.chunk.js": "/FilmSearcher/static/js/2.d0fecf8b.chunk.js",
+    "static/js/2.d0fecf8b.chunk.js.map": "/FilmSearcher/static/js/2.d0fecf8b.chunk.js.map",
+    "index.html": "/FilmSearcher/index.html",
+    "precache-manifest.316d810873e53595c824ad46b2cb53f8.js": "/FilmSearcher/precache-manifest.316d810873e53595c824ad46b2cb53f8.js",
+    "service-worker.js": "/FilmSearcher/service-worker.js",
+    "static/css/2.32bbf376.chunk.css.map": "/FilmSearcher/static/css/2.32bbf376.chunk.css.map",
+    "static/css/main.3e3d431c.chunk.css.map": "/FilmSearcher/static/css/main.3e3d431c.chunk.css.map",
+    "static/media/FilmApp.scss": "/FilmSearcher/static/media/bg.208d4fa5.jpg"
+  }
+}
